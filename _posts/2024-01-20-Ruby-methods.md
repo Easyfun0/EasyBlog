@@ -185,7 +185,7 @@ end
 
 建立物件前，需要先定義類別，類別是建立物件的藍圖，使用一個類別來建立物件，類別描述了該物件所知道的事，以及所能做的工作。
 
-![alt text]({{ site.baseurl }}/assets/img/class.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/img/posts/class.jpg "Profile Picture"){:.profile}
 
 🐠 一個物件所知道的事情，稱為:實體變數
 
@@ -207,7 +207,7 @@ end
 
 就類別的方法中所用到的實體變數而言，類別的每一個實體可以具有自己的值。舉例:只會定義Dog類別一次，在Dog類別的方法中，將會指定Dog實體一次，而Dog實體應該具有name和age等實體變數。但是每個Dog物件將會有自己的名字(name)和年齡(age)，不同於其他的Dog實體。
 
-![alt text]({{ site.baseurl }}/assets/img/class_dog.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/img/posts/class_dog.jpg "Profile Picture"){:.profile}
 
 
 這是一個Dog類別:
@@ -348,7 +348,7 @@ cat.move("house")
 
 {% endhighlight %}
 
-![alt text]({{ site.baseurl }}/assets/img/class_group.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/img/posts/class_group.jpg "Profile Picture"){:.profile}
 
 以上圖為例，類別的實體具有兩個實體方法:talk和move。
 
