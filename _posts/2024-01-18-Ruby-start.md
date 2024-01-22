@@ -4,7 +4,6 @@ title:  Ruby
 date:   2024-01-18
 author: Easyfun
 categories: Ruby
-tags: [documentation,sample]
 featured-img: sea
 ---
 
