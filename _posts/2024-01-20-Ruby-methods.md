@@ -1,12 +1,10 @@
-
 ---
 layout: post
-title:  "Ruby"
+title:  Ruby methods
 date:   2024-01-16
 author: Easyfun
 categories: Ruby
-tags: [documentation,sample]
-image: railway.png
+featured-img: railway
 ---
 
 ### Ruby的方法和類別
