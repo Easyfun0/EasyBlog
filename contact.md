@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-### Example Formspree contact form with validation and reCaptcha
+### Contact me
 
 If you are having any problems, any questions or suggestions, feel free to tweet at me, or file a GitHub issue
 
