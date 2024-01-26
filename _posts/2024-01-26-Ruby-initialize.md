@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ruby initialize
-date:   2024-01-27
+date:   2024-01-26
 author: Easyfun
 categories: Ruby
 featured-img: cloud
