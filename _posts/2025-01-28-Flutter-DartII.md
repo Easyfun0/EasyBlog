@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flutter"
+title:  "Flutter function"
 date:   2025-01-28
 author: Easyfun
 categories: Flutter

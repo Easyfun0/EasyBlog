@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flutter"
+title:  "Flutter Generics"
 date:   2025-01-29
 author: Easyfun
 categories: Flutter
