@@ -50,6 +50,9 @@ print(greet('Mike', 'Hi'));  // 輸出: HI, Mike!
 printPerson(name: 'Easy'); // 輸出: Name: Easy
 printPerson(name: 'Easyfun0', age: 30); //輸出: Name: Easyfun0 和 Age: 30
 
+{% endhighlight %}
+
+
 ### 函式作為變數傳遞
 
 變數通常只用來儲存數據(例如整數、字串等)，在Dart中，函式也可被視為一個「值」，並可像數據一樣傳遞。也意味著可將函式作為參數傳遞給其他函式，甚至可以將函數賦值給變數，靈活地控制程式碼執行流程。
